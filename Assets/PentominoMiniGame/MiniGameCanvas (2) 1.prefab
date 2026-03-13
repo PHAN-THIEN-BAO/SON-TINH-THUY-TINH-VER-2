@@ -1966,10 +1966,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "H\xE3y l\u1EA5p \u0111\u1EA7y th\u1EEDa ru\u1ED9ng n\xE0y!"
+  m_text: Fill this field!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 4c7e7074fbbf0964eb7b5264fe52d718, type: 2}
+  m_sharedMaterial: {fileID: 8628272854513744786, guid: 4c7e7074fbbf0964eb7b5264fe52d718, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3629,7 +3629,7 @@ MonoBehaviour:
   winPanel: {fileID: 8218565167537920184}
   rewardImage: {fileID: 7741083341905801323}
   winMessageText: {fileID: 2448894250833346505}
-  rewardSprite: {fileID: 21300000, guid: 6c35cc34c2cf47440a01873bd4e4f24a, type: 3}
+  rewardSprite: {fileID: 21300000, guid: c23c914b8d667c544a9a935c7e74cb3d, type: 3}
   winVFXPrefab: {fileID: 0}
   winVFXDuration: 3
   winVFXSpawnPoint: {fileID: 0}
@@ -4133,7 +4133,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6850968734783860572}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bdd17188601961b4aa188ab3f160c615, type: 3}
   m_Name: 
@@ -4995,11 +4995,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ch\xFAc m\u1EEBng b\u1EA1n \u0111\xE3 nh\u1EADn \u0111\u01B0\u1EE3c Voi
-    ch\xEDn ng\xE0"
+  m_text: Congratulations on receiving the Nine-Tusked Elephant!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 4c7e7074fbbf0964eb7b5264fe52d718, type: 2}
+  m_sharedMaterial: {fileID: 8628272854513744786, guid: 4c7e7074fbbf0964eb7b5264fe52d718, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
