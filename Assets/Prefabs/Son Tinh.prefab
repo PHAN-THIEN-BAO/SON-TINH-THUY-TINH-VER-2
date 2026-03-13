@@ -434,8 +434,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CharacterAbility
   ShowTopMostFoldoutHeaderGroup: 1
   characterType: 0
-  earthWallPrefab: {fileID: 2827217069203582224, guid: a07e0e97772679048a8d8e6bf77cce69, type: 3}
-  quicksandPrefab: {fileID: 4548279703451294326, guid: d6305fc2880735a4988c5de22b76e196, type: 3}
+  earthWallPrefab: {fileID: 1056562498042469578, guid: edce2cad9dc14a54ebfb4233a872f00c, type: 3}
+  quicksandPrefab: {fileID: 1765612208655009157, guid: 8315315184e86af4d9b081d4cb9f3f58, type: 3}
   leapForce: 50
   quakeInnerRadius: 2.5
   quakeMiddleRadius: 5
