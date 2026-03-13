@@ -127,9 +127,7 @@ namespace MiniGame
             if (rewardImage != null && rewardSprite != null)
                 rewardImage.sprite = rewardSprite;
 
-            // Đặt câu chữ chúc mừng
-            if (winMessageText != null)
-                winMessageText.text = "Chúc mừng bạn đã nhận được cái Trống đồng";
+           
 
             // Spawn VFX khi mở thành công
             SpawnWinVFX();
