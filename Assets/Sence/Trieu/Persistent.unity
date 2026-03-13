@@ -7346,6 +7346,7 @@ GameObject:
   - component: {fileID: 1118370292}
   - component: {fileID: 1118370291}
   - component: {fileID: 1118370293}
+  - component: {fileID: 1118370294}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -7575,6 +7576,23 @@ MonoBehaviour:
   m_ObsoleteUseShadowQualitySettings: 0
   m_ObsoleteCustomShadowResolution: 512
   m_ObsoleteContactShadows: 0
+--- !u!114 &1118370294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1118370290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3024080b101e8d478a0967787d849ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ShowUI
+  button: {fileID: 586246174}
+  uiPanel: {fileID: 1255527695}
+  delay: 0
+  panelObjectName: IntroPanel
+  buttonObjectName: StartButton
 --- !u!1 &1119463419
 GameObject:
   m_ObjectHideFlags: 0
@@ -8331,7 +8349,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1224512280
 RectTransform:
   m_ObjectHideFlags: 0
@@ -15287,7 +15305,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2145181475
 RectTransform:
   m_ObjectHideFlags: 0
