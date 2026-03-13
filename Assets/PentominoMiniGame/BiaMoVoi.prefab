@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 8628272854513744786, guid: 4c7e7074fbbf0964eb7b5264fe52d718, type: 2}
+  - {fileID: 7891366118725935041, guid: c8b69b8b3739e4c4dbfb889c0bcdfeaa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -108,8 +108,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "B\u1EA5m F \u0111\u1EC3 m\u1EDF"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4c7e7074fbbf0964eb7b5264fe52d718, type: 2}
-  m_sharedMaterial: {fileID: 8628272854513744786, guid: 4c7e7074fbbf0964eb7b5264fe52d718, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c8b69b8b3739e4c4dbfb889c0bcdfeaa, type: 2}
+  m_sharedMaterial: {fileID: 7891366118725935041, guid: c8b69b8b3739e4c4dbfb889c0bcdfeaa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -422,6 +422,18 @@ PrefabInstance:
       propertyPath: m_text
       value: "H\xE3y l\u1EA5p \u0111\u1EA7y th\u1EEDa ru\u1ED9ng n\xE0y!"
       objectReference: {fileID: 0}
+    - target: {fileID: 671019010347410069, guid: 4de1958092105cf4db63cf6b5b61ecce, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: c8b69b8b3739e4c4dbfb889c0bcdfeaa, type: 2}
+    - target: {fileID: 671019010347410069, guid: 4de1958092105cf4db63cf6b5b61ecce, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 7891366118725935041, guid: c8b69b8b3739e4c4dbfb889c0bcdfeaa, type: 2}
+    - target: {fileID: 671019010347410069, guid: 4de1958092105cf4db63cf6b5b61ecce, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1486224072094761913, guid: 4de1958092105cf4db63cf6b5b61ecce, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -538,6 +550,18 @@ PrefabInstance:
       propertyPath: m_text
       value: "Ch\xFAc m\u1EEBng b\u1EA1n \u0111\xE3 nh\u1EADn \u0111\u01B0\u1EE3c
         Voi ch\xEDn ng\xE0!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2448894250833346505, guid: 4de1958092105cf4db63cf6b5b61ecce, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: c8b69b8b3739e4c4dbfb889c0bcdfeaa, type: 2}
+    - target: {fileID: 2448894250833346505, guid: 4de1958092105cf4db63cf6b5b61ecce, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 7891366118725935041, guid: c8b69b8b3739e4c4dbfb889c0bcdfeaa, type: 2}
+    - target: {fileID: 2448894250833346505, guid: 4de1958092105cf4db63cf6b5b61ecce, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2520681795096992056, guid: 4de1958092105cf4db63cf6b5b61ecce, type: 3}
       propertyPath: m_AnchorMax.y
