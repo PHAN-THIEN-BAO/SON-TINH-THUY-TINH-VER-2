@@ -1,0 +1,26 @@
+# Blender 4.5.2 LTS MTL File: 'thatched_medieval_houses.blend'
+# www.blender.org
+
+newmtl atlas
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/atlas_2k_base_color.png
+map_Ns textures/atlas_2k_rough.png
+map_refl textures/atlas_2k_metal.png
+map_Bump -bm 1.000000 textures/atlas_2k_normal.png
+
+newmtl thatched_roof
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd textures/thatched_roof_2k_base_color.png
+map_Ns textures/thatched_roof_2k_rough.png
+map_refl textures/thatched_roof_2k_metal.png
+map_d textures/thatched_roof_2k_opacity.png
+map_Bump -bm 1.000000 textures/thatched_roof_2k_normal.png
