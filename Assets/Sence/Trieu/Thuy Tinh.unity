@@ -709,7 +709,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!114 &1087955207
 MonoBehaviour:
@@ -763,7 +763,7 @@ MonoBehaviour:
   - {fileID: 627338244276192585, guid: d3050db5d2a0b894385f43bf223c9f42, type: 3}
   - {fileID: 5748050587327741284, guid: 2eceb5daffef1804b84c8711ba59af55, type: 3}
   upChunks:
-  - {fileID: 7766197947025281211, guid: 972fdc27dd8e8db45837f98015b3f53a, type: 3}
+  - {fileID: 8053480189609229753, guid: 972fdc27dd8e8db45837f98015b3f53a, type: 3}
   downChunks:
   - {fileID: 1685643034865679892, guid: ed6055e7fa6df42409bae6ed29a029fb, type: 3}
   startChunk: 10
