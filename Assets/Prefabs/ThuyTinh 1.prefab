@@ -453,8 +453,8 @@ MonoBehaviour:
   quakeKnockOut: 22
   wallBurstForce: 22
   wallBurstStun: 0.6
-  whirlpoolPrefab: {fileID: 670691826344430739, guid: c1662fc252fa95641bd87afe8fb2259e, type: 3}
-  waterWavePrefab: {fileID: 4948992230667171979, guid: f415c99d249e7d143ab01847a8fb6fb9, type: 3}
+  whirlpoolPrefab: {fileID: 1546412659595047766, guid: e4af4e0afb8fef44e9456be053b92ecf, type: 3}
+  waterWavePrefab: {fileID: 610646911949935657, guid: b507652244a8e894f8d63a7fc8f68b5e, type: 3}
   dashForce: 50
   ultimateImpactRadius: 4
   ultimateLaunchForce: 40
